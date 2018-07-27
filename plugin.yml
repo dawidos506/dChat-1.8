@@ -1,0 +1,7 @@
+name: dChat
+version: 1.0
+author: dawidos506
+main: dChat.Main
+
+commands:
+  chat:
